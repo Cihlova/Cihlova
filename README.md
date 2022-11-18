@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13339
-Fork on GitHub
-3494
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1>Hi 👋, I'm Anna</h1>
 <h3>I am a forever self-learner. I taught myself how to code through online sources when I was in high school. I continued with my passion and didn't stop even during my college degree in Environmental sciences. Apart from working on becoming a VERY GOOD programmer and being a mindful civilian on planet Earth, I also care about my health. I work out 4x - 5x a week, eat healthily, sleep plenty, and shower in cold water! Hah! To keep up being active I have a big help - my dog Sona, a fun puppy mix of Israeli shepherd and Belgian Malinois. And that is another part of my life that helped me to find discipline. You can have it all if you are dedicated and passionate. And that's me, that's what I work on everyday while trying to help my closest and even the most furthers ones.</h3>
 
@@ -33,28 +17,3 @@ preview
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cihlova&label=Profile%20views&color=0e75b6&style=flat" alt="cihlova" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cihlova" alt="cihlova" /></a> </p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee

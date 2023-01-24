@@ -1,14 +1,14 @@
 <h1>Hi 👋, I'm Anna</h1>
-<h2 style="font-weight: normal">A passionate creater of <span style="font-weight: bold; color: #A62349;">websites and web applications</span> 👩‍💻.<br>I am also experienced in developing websites in WordPress and Webflow platforms.</h2>
-<p>I am a <span style="font-weight: bold; color: #A62349;">forever</span> self-<span style="font-weight: bold; color: #A62349;">learner</span> 🚀; I taught myself how to code through online sources when I was in high school and I was hired for an internship at TopMonks, a cool Tech company in Prague, right after graduation. I followed my passion for programming even during my college studies in Environmental sciences in Israel. Right after becoming a Masters of Sciences in October 2022, I felt the urge to dive back in full-time in programming. Thus, I started a Bootcamp by App Brewery to become a Full Stack Developer. My goal is to become an AMAZING programmer with the idea of sharing my hard work and knowledge.</p>
-<p>But I don't like to stop there. I combine my dedication for coding with caring for my health. I work out 4x - 5x a week, eat healthily, sleep plenty, and shower in cold water! Hah! To keep up being active I have a big help - my dog Sona, a fun puppy mix of Israeli shepherd and Belgian Malinois.</p>
-<p>My mindset always was and is: you can have it, but you have to work for it and stay positive!</p>
+<h2 style="font-weight: normal">A passionate creator of <span style="font-weight: bold; color: #A62349;">websites and web applications</span> 👩‍💻</h2>
+<p>I am a <span style="font-weight: bold; color: #A62349;">forever</span> self-<span style="font-weight: bold; color: #A62349;">learner</span> 🚀; I taught myself how to code through online sources in high school. Right after graduation, I got hired for an internship at TopMonks, a tech company in Prague, which developed into freelance work as a professional front-end developer.</p>
+<br></br>
+<p>But because I wanted to grow in my skill set, in 2022, I started an online Web Development Bootcamp by App Brewery to become a full-stack developer.</p>
+<br></br>
+- 🌱 I’m currently learning **JavaScript** and **React.js**
+<br></br>
+<p>I am still on my coding journey, but I love every step!</p>
 
-- 🌱 I’m currently learning **JavaScript** and **Backend Web Development**
-
-- 📫 Reach me on **anna.cihlova@gmail.com** or <a href="https://linkedin.com/in/https://www.linkedin.com/in/anna-cihlov%c3%a1-a12b08183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-cihlov%c3%a1-a12b08183/" height="30" width="40" /></a>
-
-- ⚡ Fun fact **I am a very positive programmer, ecologist, and a traveler originally from Prague!**
+- 📫 Reach me on **anna.cihlova@gmail.com** or <a href="https://linkedin.com/in/https://www.linkedin.com/in/anna-cihlov%c3%a1-a12b08183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-cihlov%c3%a1-a12b08183/" height="18" width="18" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>

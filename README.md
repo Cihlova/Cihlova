@@ -1,13 +1,10 @@
 <h1>Hi 👋, I'm Anna</h1>
 <h2 style="font-weight: normal">A passionate creator of <span style="font-weight: bold; color: #A62349;">websites and web applications</span> 👩‍💻</h2>
 <p>I am a <span style="font-weight: bold; color: #A62349;">forever</span> self-<span style="font-weight: bold; color: #A62349;">learner</span> 🚀; I taught myself how to code through online sources in high school. Right after graduation, I got hired for an internship at TopMonks, a tech company in Prague, which developed into freelance work as a professional front-end developer.</p>
-<br></br>
 <p>But because I wanted to grow in my skill set, in 2022, I started an online Web Development Bootcamp by App Brewery to become a full-stack developer.</p>
-<br></br>
-- 🌱 I’m currently learning **JavaScript** and **React.js**
-<br></br>
 <p>I am still on my coding journey, but I love every step!</p>
 
+- 🌱 I’m currently learning **JavaScript** and **React.js**
 - 📫 Reach me on **anna.cihlova@gmail.com** or <a href="https://linkedin.com/in/https://www.linkedin.com/in/anna-cihlov%c3%a1-a12b08183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-cihlov%c3%a1-a12b08183/" height="18" width="18" /></a>
 
 <h3 align="left">Languages and Tools:</h3>

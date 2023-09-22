@@ -1,12 +1,7 @@
 <h1>Hey 👋, I'm Anna</h1>
 <h2 style="font-weight: bold">FE Developer 👩‍💻</h2>
-<p>I am a professional front-end developer building powerful, interactive websites and web applications. I have 5+ years of experience and 7+ years of ongoing self-education in modern coding and clever web design methods. <i>#lovemyjob</i></p>
-
-<p>I was always pushed by my curiosity and enthusiasm for tech; I invest my free time in reading blogs and books, listening to podcasts, taking educational classes, and attending workshops to enhance my abilities and stay up-to-date with the industry. #foreverlearner</p>
-
-<p>If you would like to grab a virtual coffee to learn more about me || just chat,
-don't hesitate to contact me! #letsconnect</p>
-
+<p>I am a professional front-end developer building powerful, interactive websites and web applications.</p>
+<p>I have 5+ years of experience and 7+ years of ongoing self-education in modern coding and clever web design methods. #lovemyjob</p>
 
 - 🌱 Currently broadening my skills in **JavaScript** and **React**
 - 📫 **anna.cihlova@gmail.com** or <a href="https://linkedin.com/in/https://www.linkedin.com/in/anna-cihlov%c3%a1-a12b08183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-cihlov%c3%a1-a12b08183/" height="18" width="18" /></a>

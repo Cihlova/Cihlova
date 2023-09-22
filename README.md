@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Anna</h1>
+<h1>Hey 👋, I'm Anna</h1>
 <h2 style="font-weight: normal">A passionate creator of <span style="font-weight: bold; color: #A62349;">websites and web applications</span> 👩‍💻</h2>
 <p>I am a <span style="font-weight: bold; color: #A62349;">forever</span> self-<span style="font-weight: bold; color: #A62349;">learner</span> 🚀; I taught myself how to code through online sources in high school. Right after graduation, I got hired for an internship at TopMonks, a tech company in Prague, which developed into freelance work as a professional front-end developer.</p>
 <p>But because I wanted to grow in my skill set, in 2022, I started an online Web Development Bootcamp by App Brewery to become a full-stack developer.</p>
